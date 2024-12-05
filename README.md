@@ -1,4 +1,4 @@
-##LawBot - Chatbot Juridique
+LawBot - Chatbot Juridique
 LawBot est une application alimentée par l'IA conçue pour fournir des informations juridiques sur le droit de la famille marocain et d'autres domaines juridiques. Ce projet combine des techniques de traitement du langage naturel (NLP), la recherche vectorielle et une interface utilisateur intuitive via Streamlit.
 Fonctionnalités
 Extraction et ingestion de documents : Traite des fichiers PDF et extrait leur contenu pour l'intégrer dans une base de données vectorielle.
@@ -80,13 +80,13 @@ Copier le code
 EMBEDDING_MODEL="mxbai-embed-large:latest"
 CHAT_MODEL="llama3.2"
 Utilisation
-#Étape 1 : Indexation des documents
+Étape 1 : Indexation des documents
 Ajoutez vos fichiers PDF dans le dossier documents.
 Lancez le script pour ingérer les documents dans la base de données vectorielle :
 
 Copier le code
 python pdf.py
-#Étape 2 : Interaction via Streamlit
+Étape 2 : Interaction via Streamlit
 Lancez l'application Streamlit :
 
 
