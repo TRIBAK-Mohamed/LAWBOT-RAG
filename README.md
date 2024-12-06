@@ -38,3 +38,30 @@ Les dépendances nécessaires sont définies dans le fichier `requirements.txt`.
 1. **Clonez ce dépôt** :
    git clone <URL_DU_DÉPÔT>
    cd LawBot
+2. **Installez les dépendances** :
+   pip install -r requirements.txt
+3. **Configurez l'environnement virtuel** :
+python -m venv venv
+source venv/bin/activate  # Sur Windows : venv\Scripts\activate
+## 🚀 Utilisation
+
+### Étape 1 : Indexation des documents
+1. Ajoutez vos fichiers PDF dans le dossier `documents`.
+2. Lancez le script pour ingérer les documents dans la base de données vectorielle :
+   python pdf.py
+### Étape 2 : Interaction via Streamlit
+Lancez l'application Streamlit :
+   streamlit run llm_streamlit.py
+### Fonctionnalités disponibles :
+Téléchargez un fichier PDF et posez des questions directement sur son contenu.
+Posez des questions générales sans document.
+## 📂 Structure du projet
+LawBot/
+│
+├── documents/            # Fichiers PDF à traiter
+├── lawbot_DB/            # Base de données vectorielle persistée
+├── llm_streamlit.py      # Interface utilisateur Streamlit
+├── pdf.py                # Script pour l'ingestion des documents
+├── requirements.txt      # Dépendances du projet
+├── .env                  # Configuration de l'environnement
+└── README.md             # Ce fichier
