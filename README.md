@@ -56,6 +56,7 @@ Lancez l'application Streamlit :
 Téléchargez un fichier PDF et posez des questions directement sur son contenu.
 Posez des questions générales sans document.
 ## 📂 Structure du projet
+```plaintext
 LawBot/
 │
 ├── documents/            # Fichiers PDF à traiter
