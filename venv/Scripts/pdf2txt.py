@@ -1,4 +1,4 @@
-#!C:\Users\hakimi\Desktop\chatbot_vf_2\venv\scripts\python.exe
+#!C:\Users\hakimi\Desktop\LAWBOT-RAG\venv\Scripts\python.exe
 """A command line tool for extracting text and images from PDF and
 output it to plain text, html, xml or tags."""
 import argparse
