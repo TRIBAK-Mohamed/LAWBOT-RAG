@@ -10,7 +10,7 @@ from langchain_community.vectorstores import Chroma
 
 # Configuration globale
 EMBEDDING_MODEL = "mxbai-embed-large:latest"
-CHAT_MODEL = "gemma:2b"
+CHAT_MODEL = "llama3.2"
 VECTOR_STORE_DIRECTORY = "./lawbot_DB"
 VECTOR_STORE_COLLECTION = "rag-chroma"
 
