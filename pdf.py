@@ -24,7 +24,7 @@ def load_documents_from_directory(directory_path):
         if file.endswith(".pdf")
     ]
 
-def split_documents(documents, chunk_size=2000, chunk_overlap=200):
+def split_documents(documents, chunk_size=500, chunk_overlap=50):
     """Split documents into smaller chunks for vector storage."""
     text_splitter = CharacterTextSplitter.from_tiktoken_encoder(
         chunk_size=chunk_size, chunk_overlap=chunk_overlap, separator="."

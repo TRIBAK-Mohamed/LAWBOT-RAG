@@ -1,26 +1,26 @@
+.. LAWBOT-RAG documentation master file
 
-Documentation de projet IA : Lawbot-RAG
-===================================================
+Bienvenue dans la documentation de **LAWBOT-RAG** !
+==================================================
 
+LAWBOT-RAG est un chatbot juridique intelligent basé sur un système de recherche augmentée (RAG).
 
-.. figure:: /Documentation/images/Image2.jpg
-   :width: 100%
-   :alt: Alternative text for the image
-   :name: logo
-
-
-
-
-
-
-
+Contenu de la documentation :
+-----------------------------
 
 .. toctree::
-   :maxdepth: 3
-   :caption: Plan de la documentation
+   :maxdepth: 2
+   :caption: Table des matières
 
-   Documentation/scripts/Scope/introduction.rst
-   Documentation/scripts/Scope/Dataset.rst
-   Documentation/scripts/Scope/Pipeline_Step_by_step.rst
-   Documentation/scripts/Scope/Conclusion.rst
+   introduction
+   installation
+   utilisation
+   API
+   faq
 
+Indices et modules Python :
+---------------------------
+.. toctree::
+   :maxdepth: 2
+
+   modules
