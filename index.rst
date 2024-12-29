@@ -5,11 +5,9 @@ Bienvenue dans la documentation de **LAWBOT-RAG** !
 
 LAWBOT-RAG est un chatbot juridique intelligent basé sur un système de recherche augmentée (RAG).
 
-Contenu de la documentation :
------------------------------
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Table des matières
 
    docs\scripts\introduction.rst
@@ -18,9 +16,3 @@ Contenu de la documentation :
    docs\scripts\architecture.rst
    docs\scripts\explication_code.rst
 
-Indices et modules Python :
----------------------------
-.. toctree::
-   :maxdepth: 2
-
-   modules
