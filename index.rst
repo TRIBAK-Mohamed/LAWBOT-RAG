@@ -12,11 +12,11 @@ Contenu de la documentation :
    :maxdepth: 2
    :caption: Table des matières
 
-   introduction
-   installation
-   utilisation
-   architecture
-   explication_code
+   docs\scripts\introduction.rst
+   docs\scripts\installation.rst
+   docs\scripts\utilisation.rst
+   docs\scripts\architecture.rst
+   docs\scripts\explication_code.rst
 
 Indices et modules Python :
 ---------------------------
