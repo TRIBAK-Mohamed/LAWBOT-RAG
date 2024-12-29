@@ -15,8 +15,8 @@ Contenu de la documentation :
    introduction
    installation
    utilisation
-   API
-   faq
+   architecture
+   explication_code
 
 Indices et modules Python :
 ---------------------------
