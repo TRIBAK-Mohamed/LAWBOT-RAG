@@ -14,8 +14,7 @@ Dans un monde en constante évolution, les technologies d'intelligence artificie
 
 Le projet se concentre sur le **droit marocain**, avec un accent particulier sur le droit de la famille. En exploitant des documents juridiques au format PDF, il permet aux utilisateurs (juristes, avocats, citoyens) d'extraire et d'interroger facilement des informations pertinentes.
 
-- **Projet réalisé par** :   - TRIBAK Mohamed |linkedin_Mohamed| 
-                             - BEN-AMAR Abdessamad |linkedin_Abdessamad|  
+- **Projet réalisé par** :   TRIBAK Mohamed |linkedin_Mohamed| & BEN-AMAR Abdessamad |linkedin_Abdessamad|  
 .. |linkedin_Mohamed| image:: docs/images/linkedin.gif
     :width: 20
     :height: 20
