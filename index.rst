@@ -7,13 +7,13 @@ Bienvenue dans la documentation de **LAWBOT-RAG** !
 
 
 
-- **Réalisé par** :   TRIBAK Mohamed |linkedin_lahcen| & BOURKIBA Salma |linkedin_salma|  
-.. |linkedin_lahcen| image:: Documentation/images/linkedinn.jfif
+- **Réalisé par** :   TRIBAK Mohamed |linkedin_Mohamed| & BEN-AMAR Abdessamad |linkedin_Abdessamad|  
+.. |linkedin_Mohamed| image:: Documentation/images/linkedinn.jfif
     :width: 20
     :height: 20
     :target: https://www.linkedin.com/in/mohamed-tribak-41023617a/
 
-.. |linkedin_salma| image:: docs/images/linkedin.gif
+.. |linkedin_Abdessamad| image:: docs/images/linkedin.gif
     :width: 20
     :height: 20
     :target: https://www.linkedin.com/in/abdessamad-ben-amar-3a74a0315/
