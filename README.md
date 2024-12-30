@@ -56,7 +56,7 @@ Lancez l'application Streamlit :
 Téléchargez un fichier PDF et posez des questions directement sur son contenu.
 Posez des questions générales sans document.
 ## ⚙️ Documentation sur readthedocs
-- [Readthedocs](https://lawbot-rag.readthedocs.io/en/latest/docs/scripts/explication_code.html/)
+- [Readthedocs](https://lawbot-rag.readthedocs.io/en/latest/)
 
 
 ## 📂 Structure du projet
