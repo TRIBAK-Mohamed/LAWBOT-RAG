@@ -33,12 +33,12 @@ Description  des différentes parties du projet et  leur rôle :
      - **Historique des conversations** :
        - Les interactions utilisateur sont affichées dans une section "Historique".
 3. **Fonctions communes :**
- - **initialize_vector_store()** :
+  - **initialize_vector_store()** :
      - Fonction : Initialise la base vectorielle persistante pour la recherche.
      - Entrée : Appelée avant d'effectuer une recherche.
      - Sortie : Instance de la base Chroma.
 
-   - **retrieve_from_db(question)** :
+  - **retrieve_from_db(question)** :
      - Fonction : Récupère les réponses les plus pertinentes dans la base vectorielle.
      - Entrée : Une question posée par l'utilisateur.
      - Sortie : Réponse générée par le modèle.
