@@ -63,6 +63,7 @@ Posez des questions générales sans document.
 ```plaintext
 LawBot/
 │
+├── docs/                 # Fichiers du redthedocs
 ├── documents/            # Fichiers PDF à traiter
 ├── lawbot_DB/            # Base de données vectorielle persistée
 ├── llm_streamlit.py      # Interface utilisateur Streamlit
