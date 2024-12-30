@@ -7,6 +7,9 @@ Le projet est structuré comme suit :
 - **pdf.py** : Gestion et ingestion des documents PDF.
 - **lawbot_DB/** : Stockage des embeddings vectoriels.
 - **docs/** : Documentation pour ReadTheDocs.
+- **documents/** : Documentation pour LawBot.
+- **venv/** : Configuration de l'environnement.
+
 
 **Schéma du workflow :**
 

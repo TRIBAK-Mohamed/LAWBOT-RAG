@@ -8,7 +8,7 @@ Bienvenue dans la documentation de **LAWBOT-RAG** !
 
 Dans un monde en constante évolution, les technologies d'intelligence artificielle (IA) jouent un rôle croissant dans divers domaines, y compris le droit. Les assistants juridiques basés sur l'IA, comme **LawBot RAG**, permettent d'automatiser la recherche d'informations, d'accélérer les analyses, et d'améliorer la précision des réponses juridiques. Ces outils sont particulièrement utiles pour traiter de grandes quantités de données juridiques et répondre rapidement à des questions complexes.
 
-**LawBot RAG** repose sur une approche dite de "Retrieval-Augmented Generation" (RAG). Cette méthode combine :
+**LawBot** repose sur une approche dite de "Retrieval-Augmented Generation" (RAG). Cette méthode combine :
 - La récupération d'informations à partir de bases vectorielles.
 - La génération de réponses contextuelles à l'aide de modèles de langage avancés.
 

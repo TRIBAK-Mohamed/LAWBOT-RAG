@@ -12,10 +12,8 @@ Pour configurer **LAWBOT-RAG**, suivez ces étapes :
 ### Préparation pour les documents utilisateur
 
 Pour permettre aux utilisateurs d'importer leurs documents :
-- Assurez-vous que les bibliothèques pour traiter les fichiers PDF et Word sont bien installées. 
+- Assurez-vous que les bibliothèques pour traiter les fichiers PDF  sont bien installées. 
 - Exemple de configuration pour les dépendances : 
     - Pour les fichiers PDF : `pip install PyMuPDF`
-    - Pour les fichiers Word : `pip install python-docx`
- Les documents acceptés sont :
+Les documents acceptés sont :
 - Fichiers PDF
-- Documents Word (.docx)
