@@ -36,7 +36,7 @@ Les dépendances nécessaires sont définies dans le fichier `requirements.txt`.
 ## ⚙️ Installation
 
 1. **Clonez ce dépôt** :
-   git clone <[URL_DU_DÉPÔT](https://github.com/TRIBAK-Mohamed/LAWBOT-RAG.git)>
+   git clone <[LAWBOT-RAG](https://github.com/TRIBAK-Mohamed/LAWBOT-RAG.git)>
    cd LawBot
 2. **Installez les dépendances** :
    pip install -r requirements.txt
